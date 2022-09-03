@@ -15,11 +15,12 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    site_type: Academic
+    local_business_type: 'Graduate Student'
+    org_name: 'Amirhossein Mesbah'
+    description: 'This is Academic Website of Amirhossein Mesbah.'
+    twitter: 'amirh_mesbah'
+    email: 'amir.mesbah@ut.ac.ir'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,9 +44,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -82,7 +83,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: 
     algolia:
       app_id: ''
       api_key: ''
@@ -92,6 +93,7 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+    
 
 # Extensions
 
